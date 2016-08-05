@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/armiiller/lfv-logger/issues"
   },
-  "homepage": "https://github.com/armiiller/lfv-logger#readme"
+  "homepage": "https://github.com/armiiller/lfv-logger#readme",
+  "dependencies": {
+    "express-interceptor": "^1.2.0",
+    "morgan": "^1.7.0"
+  }
 }
