@@ -1,6 +1,6 @@
 {
   "name": "lfv-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express Logger",
   "main": "index.js",
   "scripts": {
